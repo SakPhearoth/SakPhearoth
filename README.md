@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakPhearoth
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C++, Python
+- 👀 I’m interested in Back-end
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => Sakphearothkhin@gmail.com
 
