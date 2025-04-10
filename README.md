@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakPhearoth
 - 👀 I’m interested in backend and web development
-- 🌱 I’m currently learning Java and looking for an internship
+- 🌱 I’m currently enroll into an full-stack development course.
 - 📫 How to reach me => Sakphearothkhin@gmail.com
 
 <!---
