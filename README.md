@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khin Sakphearoth (@SakPhearoth)  
 - 👀 I’m passionate about backend and web development  
-- 🌱 Currently enrolled in a full-stack development course  
+- 🌱 Currently enrolled in a full-stack web development course  
 - 📫 You can reach me at:  
    - Sakphearothkhin@gmail.com  
    - [Telegram](https://t.me/Sakphearoth_Khin)
